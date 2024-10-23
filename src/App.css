@@ -1,0 +1,10 @@
+.slide-item {
+  height: 160px;
+}
+
+@media (max-width: 900px) {
+  .slide-item {
+    height: 70px;
+    margin-left: 22px;
+  }
+}
